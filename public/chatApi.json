@@ -1,0 +1,132 @@
+[
+  {
+    "title": "I-589 - AMARKHIL, Obaidullah [Affirmative Filing with ZHN]",
+    "count": 3,
+    "chats": [
+      {
+        "date": "",
+        "chat": [
+          {
+            "id": 1,
+            "name": "Mary Hilda",
+            "text": "Just fill me in for his updates yea?",
+            "time": "19:32",
+            "replyTo": {
+              "name": "",
+              "msg": ""
+            },
+            "color": {
+              "main": "#E5A443",
+              "sub": "#FCEED3"
+            }
+          },
+          {
+            "id": 2,
+            "name": "You",
+            "text": "No worries, it will be complete ASAP, I've asked him yesterday.",
+            "time": "19:32",
+            "replyTo": {
+              "name": "",
+              "msg": ""
+            },
+            "color": {
+              "main": "#9B51E0",
+              "sub": "#EEDCFF"
+            }
+          }
+        ]
+      },
+      {
+        "date": "Today June 09, 2021",
+        "chat": [
+          {
+            "id": 3,
+            "name": "Mary Hilda",
+            "text": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+            "time": "19:32",
+            "replyTo": {
+              "name": "",
+              "msg": ""
+            },
+            "color": {
+              "main": "#E5A443",
+              "sub": "#FCEED3"
+            }
+          },
+          {
+            "id": 4,
+            "name": "You",
+            "text": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
+            "time": "19:32",
+            "replyTo": {
+              "name": "",
+              "msg": ""
+            },
+            "color": {
+              "main": "#9B51E0",
+              "sub": "#EEDCFF"
+            }
+          },
+          {
+            "id": 5,
+            "name": "Mary Hilda",
+            "text": "Sure thing, Claren.",
+            "time": "19:32",
+            "replyTo": {
+              "name": "",
+              "msg": ""
+            },
+            "color": {
+              "main": "#E5A443",
+              "sub": "#FCEED3"
+            }
+          }
+        ]
+      },
+      {
+        "date": "New Message",
+        "chat": [
+          {
+            "id": 6,
+            "name": "Obaidullah Amarkhil",
+            "text": "Morning. I’ll try to do them. Thanks",
+            "time": "19:32",
+            "replyTo": {
+              "name": "",
+              "msg": ""
+            },
+            "color": {
+              "main": "#43B78D",
+              "sub": "#D2F2EA"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "I-589 - AMARKHIL, Obaidullah [Affirmative Filing with ZHN]",
+    "count": 1,
+    "chats": [
+      {
+        "date": "",
+        "chat": [
+          {
+            "id": 1,
+            "name": "FastVisa Support",
+            "text": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We’ll send you a response as soon as possible.",
+            "time": "19:32",
+            "replyTo": {
+              "name": "",
+              "msg": ""
+            },
+            "color": {
+              "main": "#E5A443",
+              "sub": "#FCEED3"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
