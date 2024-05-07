@@ -197,16 +197,17 @@ const Task = () => {
                     <div className="flex gap-2">
                       <input
                         placeholder="Type task title"
-                        className="outline-none border p-1"
+                        className="outline-none border p-1 rounded-md"
                         value={newTitle}
                         onChange={(e) => setNewTitle(e.target.value)}
+                        onMouseLeave={() => handleSaveTitle(index)}
                       />
-                      <Button
+                      {/* <Button
                         type="primary"
                         onClick={() => handleSaveTitle(index)}
                       >
                         Save
-                      </Button>
+                      </Button> */}
                     </div>
                   )}
                   <div className="flex gap-3">
